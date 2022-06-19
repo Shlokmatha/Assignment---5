@@ -5,7 +5,7 @@ def alp_print():
         for j in range(i):
             if n==26:
                 n=0
-            else:
+        else:
                 pass
             y=chr(65+n)    
             print(y,end="")
